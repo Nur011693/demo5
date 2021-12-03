@@ -1,0 +1,6 @@
+Overviews Landings Pages Apps Docs 
+common color :
+              nev.b= #0F2656
+              sky.b = #008AFF
+h1 = It's time to amplify your online business
+p = Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam.              
